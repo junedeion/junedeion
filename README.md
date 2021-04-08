@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ ![Working](https://github.com/junedeion/junedeion/blob/main/JB_2by1.gif)
+ 
 <!--
 **junedeion/junedeion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
