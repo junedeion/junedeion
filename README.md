@@ -5,4 +5,4 @@ Currently working on data streaming and web application projects.
 
 <!---![](https://img.shields.io/badge/code-R-blueviolet)--->
 
-![](https://img.shields.io/badge/code-R-blueviolet)
+![](https://img.shields.io/badge/code-R-blueviolet?style=flat&logo=appveyor)
