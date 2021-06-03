@@ -7,3 +7,4 @@ Currently working on data streaming and web application projects.
 
 ![](https://img.shields.io/badge/code-R-blueviolet?style=flat&logo=R&logoColor=8349c3&color=83b1ff)
 
+![](https://img.shields.io/badge/code-R-blueviolet?style=flat&logo=R&logoColor=db7a9f&color=83b1ff)
